@@ -73,7 +73,7 @@
 
 <div align="center">
 
-<a href="https://leetcode.com/u/praveen_sahu/">
+<a href="https://leetcode.com/u/praveen_sahu">
 
 <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&ext=heatmap" />
 
