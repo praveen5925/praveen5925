@@ -69,6 +69,20 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode)
 
 ---
+## 🧠 DSA & LeetCode
+
+<div align="center">
+
+<a href="https://leetcode.com/u/praveen_sahu/">
+
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&ext=heatmap" />
+
+</a>
+
+</div>
+
+---
+
 ## 🚀 Currently
 
 <div align="center">
