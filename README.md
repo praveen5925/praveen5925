@@ -24,6 +24,28 @@
 
 ---
 
+<div align="center">
+
+<a href="https://www.linkedin.com/in/praveen-sahu-268981310">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="just wait">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome" />
+</a>
+
+<a href="https://leetcode.com/u/praveen_sahu/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+</a>
+
+<a href="https://github.com/praveen5925">
+  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages
