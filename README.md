@@ -3,11 +3,17 @@
 <img src="./github-banner.png.png" width="100%">
   </div>
 
-<h1 align="center">👋 Hi, I'm Praveen Sahu</h1>
+<div align="center">
 
-<h3 align="center">
-💻 B.Tech CSE Student | MERN Stack Developer
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Praveen+Sahu;B.Tech+CSE+Student+%F0%9F%92%BB;MERN+Stack+Developer+%F0%9F%9A%80;DSA+%7C+LeetCode+%7C+Problem+Solving;Always+Learning+%F0%9F%8C%B1" />
+
+<p>
+Building projects, solving problems and learning something new every day 🚀
+</p>
+
+</div>
+
+---
 
 </div>
 
