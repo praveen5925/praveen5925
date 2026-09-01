@@ -69,6 +69,22 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode)
 
 ---
+## 🚀 Currently
+
+<div align="center">
+
+| 🔭 Working On | 🌱 Learning | 🧠 Practicing | 🎯 Goal |
+|:---:|:---:|:---:|:---:|
+| MERN Projects | Advanced JavaScript | DSA & LeetCode | Software Development |
+
+<div align="center">
+
+> 💡 "Build. Break. Learn. Build again."
+
+</div>
+</div>
+
+---
 
 ## 🚀 Featured Projects
 
