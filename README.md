@@ -86,7 +86,15 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=praveen5925&show_icons=true&theme=tokyonight" />
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=praveen5925&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen5925&layout=compact&theme=tokyonight&hide_border=true" height="180">
+
+</div>
 
 </p>
 
