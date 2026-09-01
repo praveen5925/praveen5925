@@ -205,6 +205,16 @@ My personal portfolio website showcasing my skills and projects.
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=praveen5925&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+
+</div>
+
+---
+
 <div align="center">
 
 ### 🚀 Keep Learning. Keep Building.
