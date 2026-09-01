@@ -1,10 +1,13 @@
 <div align="center">
+  <div align="center">
+<img src="./github-banner.png.png" width="100%">
+  </div>
 
-# 👋 Hi, I'm Praveen Sahu
+<h1 align="center">👋 Hi, I'm Praveen Sahu</h1>
 
-### 💻 B.Tech CSE Student | MERN Stack Developer
-
-Building projects, solving problems and learning something new every day 🚀
+<h3 align="center">
+💻 B.Tech CSE Student | MERN Stack Developer
+</h3>
 
 </div>
 
