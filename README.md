@@ -1,17 +1,18 @@
 <div align="center">
-  <div align="center">
+
 <img src="./github-banner.png.png" width="100%">
-  </div>
+
+</div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Praveen+Sahu;B.Tech+CSE+Student+%F0%9F%92%BB;MERN+Stack+Developer+%F0%9F%9A%80;DSA+%7C+LeetCode+%7C+Problem+Solving;Always+Learning+%F0%9F%8C%B1" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Praveen+Sahu;B.Tech+CSE+Student+%F0%9F%92%BB;MERN+Stack+Developer+%F0%9F%9A%80;DSA+%7C+LeetCode+%7C+Problem+Solving;Always+Learning+%F0%9F%8C%B1">
 
-<p>
-Building projects, solving problems and learning something new every day 🚀
-</p>
+<p>Building projects, solving problems and learning something new every day 🚀</p>
 
 </div>
+
+---
 
 ---
 
@@ -48,6 +49,9 @@ Building projects, solving problems and learning something new every day 🚀
   <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
 </a>
 
+<a href="https://www.instagram.com/praavven/?__pwa=1">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 </div>
 
 ---
@@ -127,7 +131,7 @@ A full-stack applications built with modern web technologies.
   <img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github">
 </a>
 
-
+<a href="#">
   <img src="https://img.shields.io/badge/🚀%20Live%20Demo-00A86B?style=for-the-badge">
 </a>
 
@@ -147,7 +151,7 @@ An anime-themed web project focused on frontend design and user experience.
   <img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github">
 </a>
 
-
+<a href="#">
   <img src="https://img.shields.io/badge/🚀%20Live%20Demo-00A86B?style=for-the-badge">
 </a>
 
@@ -250,6 +254,52 @@ My personal portfolio website showcasing my skills and projects.
 </div>
 
 ---
+---
+
+## 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=praveen5925&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
+
+---
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=praveen5925&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/praveen-sahu-268981310/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/praveen_sahu/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+📫 **Open to learning, building and new opportunities.**
+
+</div>
 
 <div align="center">
 
