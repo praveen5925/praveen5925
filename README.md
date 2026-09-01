@@ -184,7 +184,22 @@ My personal portfolio website showcasing my skills and projects.
 
 <div align="center">
 
-<img src="./dist/github-snake.svg" alt="GitHub Contribution Snake">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/praveen5925/praveen5925/output/github-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/praveen5925/praveen5925/output/github-snake.svg"
+  />
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/praveen5925/praveen5925/output/github-snake.svg"
+  />
+</picture>
 
 </div>
 
