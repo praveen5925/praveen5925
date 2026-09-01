@@ -180,6 +180,16 @@ My personal portfolio website showcasing my skills and projects.
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="./dist/github-snake.svg" alt="GitHub Contribution Snake">
+
+</div>
+
+---
+
 <div align="center">
 
 ### 🚀 Keep Learning. Keep Building.
