@@ -245,31 +245,11 @@ My personal portfolio website showcasing my skills and projects.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=praveen5925&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-
-</div>
-
----
----
-
 ## 👀 Profile Views
 
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=praveen5925&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
-</div>
-
----
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=praveen5925&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
