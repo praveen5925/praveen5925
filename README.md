@@ -72,13 +72,95 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| 🛒 E-Commerce | Full-stack e-commerce application |
-| 🎌 Anime Website | Anime website using MERN |
-| 📇 Contact Book | Contact management application |
-| 💻 MERN Project | Full-stack web application |
-| 🌐 Portfolio | Personal portfolio website |
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### 🛒 Frontend projects
+
+A full-stack applications built with modern web technologies.
+
+**Tech:** MERN Stack
+
+<br>
+
+<a href="https://github.com/praveen5925/my-frontend-project">
+  <img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github">
+</a>
+
+
+  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-00A86B?style=for-the-badge">
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🎌 Anime Website
+
+An anime-themed web project focused on frontend design and user experience.
+
+**Tech:** HTML • CSS • JavaScript / MERN
+
+<br>
+
+<a href="https://github.com/praveen5925/Anime-website-MERN">
+  <img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github">
+</a>
+
+
+  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-00A86B?style=for-the-badge">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### 📇 Contact Book
+
+A contact management application with database integration.
+
+**Tech:** JavaScript • MongoDB
+
+<br>
+
+<a href="https://github.com/praveen5925/contact-book-mongodb">
+  <img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🌐 Portfolio
+
+My personal portfolio website showcasing my skills and projects.
+
+**Tech:** HTML • CSS • JavaScript
+
+<br>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-00A86B?style=for-the-badge">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
