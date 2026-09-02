@@ -206,9 +206,6 @@ My personal portfolio website showcasing my skills and projects.
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=Ritiksadhgit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Ritiksadhgit&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ritiksadhgit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <div align="center">
 
