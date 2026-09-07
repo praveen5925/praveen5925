@@ -12,13 +12,7 @@
 
 </div>
 
----
 
----
-
-</div>
-
----
 
 ## 👨‍💻 About Me
 
@@ -206,10 +200,6 @@ My personal portfolio website showcasing my skills and projects.
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=praveen5925&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=praveen5925&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=praveen5925&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=praveen5925&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180">
@@ -219,6 +209,8 @@ My personal portfolio website showcasing my skills and projects.
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=praveen5925&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+
+
 
 </div>
 
